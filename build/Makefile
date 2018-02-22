@@ -1,4 +1,4 @@
-EXE_NAME  = robHttpClient
+EXE_NAME  = monHttpClient
 INC = -I../include
 SRC = ../
 vpath %.cpp ../source
